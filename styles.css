@@ -1,0 +1,31 @@
+img{
+    width: 200px;
+  }
+  Border {
+      Border-style: Solid;
+      border-color: Tomato; 
+      border-width: thick; 
+  }
+  head {
+      text-align: center;
+  }
+    Body { 
+        text-align: center;
+        Background-color: LightGray;
+}
+h1 {
+        font-family: monospace;
+        font-size: 50px;
+}
+h2  {
+        font-family: sans-serif;
+        text-align: center
+    }
+h3 {
+    text-align: left; 
+    text-indent: inherit;
+    color: Red;
+}
+p {
+text-align: left;
+}
